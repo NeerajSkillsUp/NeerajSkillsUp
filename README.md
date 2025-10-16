@@ -3,8 +3,7 @@
 🎓 **B.E. CSE (2023–27)** | Thapar Institute of Engineering & Technology  
 💡 Passionate about **AI/ML, Data Science & Software Development**  
 📧 **thisis.neerajbhardwaj@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/neeraj-bhardwaj-461548285) • [GitHub](https://github.com/NeerajSkillsUp)
-
+🌐 [LinkedIn](https://www.linkedin.com/in/neeraj-bhardwaj-461548285) 
 ---
 
 ### ⚙️ Tech Snapshot

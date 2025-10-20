@@ -15,6 +15,7 @@
 ---
 
 ### 🌟 Highlights
+💼 Vodafone Idea Online Internship – Data Analytics
 🅿️ Dynamic Parking Pricing Simulation – *IITG*  
 💼 Deloitte Australia Virtual Tech Experience  
 🧭 Pathfinding Visualizer (BFS, DFS, A\*)  

@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Neeraj Bhardwaj  
+# 👋 Hey,
+
+I'm Neeraj Bhardwaj  
 
 🎓 **B.E. CSE (2023–27)** | Thapar Institute of Engineering & Technology  
 💡 Passionate about **AI/ML, Data Science & Software Development**  

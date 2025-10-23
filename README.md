@@ -10,13 +10,11 @@
 🧠 **Python | C++ | R | JS | SQL**  
 🚀 **AI/ML | Data Analytics | Algorithms | Web Dev**  
 🧰 **Colab | Kaggle | RStudio | VS Code | GitHub**  
-🤖 **ChatGPT | Gemini | DeepSeek | Perplexity**
 
 ---
 
 ### 🌟 Highlights
 💼 Vodafone Idea Online Internship – Data Analytics
-
 🅿️ Dynamic Parking Pricing Simulation – *IITG*  
 💼 Deloitte Australia Virtual Tech Experience  
 🧭 Pathfinding Visualizer (BFS, DFS, A\*)  

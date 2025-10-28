@@ -23,4 +23,4 @@
 
 ---
 
-> ⚡ Always learning • Always building • Always curious
+> ⚡ Always Learning • Always Building • Always Curious

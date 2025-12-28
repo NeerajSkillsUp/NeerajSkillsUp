@@ -7,18 +7,21 @@
 ---
 
 ### ⚙️ Tech Snapshot
-🧠 **Python | C++ | R | JS | SQL**  
+🧠 **Python | C | C++ | R | HTML | CSS || JS | SQL**  
 🚀 **AI/ML | Data Analytics | Algorithms | Web Dev**  
-🧰 **Colab | Kaggle | RStudio | VS Code | GitHub**  
+🧰 **Colab | Kaggle | VS Code | GitHub | RStudio**  
 
 ---
 
 ### 🌟 Highlights
-💼 Vodafone Idea Online Internship – Data Analytics
+💼 Vodafone Idea Online Internship – Data Analytics 
 
 🅿️ Dynamic Parking Pricing Simulation – *IITG*  
+
 💼 Deloitte Australia Virtual Tech Experience  
+
 🧭 Pathfinding Visualizer (BFS, DFS, A\*)  
+
 🏅 Academic Excellence – 96.8% (XII), 95.6% (X)
 
 ---

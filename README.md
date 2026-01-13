@@ -7,7 +7,7 @@
 ---
 
 ### ⚙️ Tech Snapshot
-🧠 **Python | C | C++ | R | HTML | CSS || JS | SQL**  
+🧠 **Python | C | C++ | R | HTML | CSS | JS | SQL**  
 🚀 **AI/ML | Data Analytics | Algorithms | Web Dev**  
 🧰 **Colab | Kaggle | VS Code | GitHub | RStudio**  
 

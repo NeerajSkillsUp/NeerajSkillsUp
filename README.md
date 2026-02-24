@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Neeraj Bhardwaj  
 
 🎓 **B.E. CSE (2023–27)** | Thapar Institute of Engineering & Technology  
-💡 Passionate about **AI/ML, Data Science & Software Development**  
+💡 Passionate about **AI/ML & Data Science**  
 📧 **thisis.neerajbhardwaj@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/neeraj-bhardwaj-461548285) 
 ---
@@ -14,6 +14,7 @@
 ---
 
 ### 🌟 Highlights
+
 💼 Vodafone Idea Online Internship – Data Analytics 
 
 🅿️ Dynamic Parking Pricing Simulation – *IITG*  
@@ -22,7 +23,7 @@
 
 🧭 Pathfinding Visualizer (BFS, DFS, A\*)  
 
-🏅 Academic Excellence – 96.8% (XII), 95.6% (X)
+🏅 Academic Excellence – CGPA 9+, 96.8% (XII), 95.6% (X)
 
 ---
 

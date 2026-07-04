@@ -1,29 +1,31 @@
 # 👋 Hey, I'm Neeraj Bhardwaj  
 
 🎓 **B.E. CSE (2023–27)** | Thapar Institute of Engineering & Technology  
-💡 Passionate about **AI/ML & Data Science**  
+💡 Focus - **Data Structures & Algorithms**  
 📧 **thisis.neerajbhardwaj@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/neeraj-bhardwaj-461548285) 
 ---
 
 ### ⚙️ Tech Snapshot
-🧠 **Python | C | C++ | R | HTML | CSS | JS | SQL**  
-🚀 **AI/ML | Data Analytics | Algorithms | Web Dev**  
-🧰 **Colab | Kaggle | VS Code | GitHub | RStudio**  
+🧠 **Python | C/C++ | R | HTML | CSS | JS | SQL**  
+🚀 **AI/ML | Data Science | Algorithms | Web Dev**  
+🧰 **VS Code | GitHub | Render | Vercel | Kaggle**  
 
 ---
 
 ### 🌟 Highlights
 
-💼 Vodafone Idea Online Internship – Data Analytics 
+💼 **Data Analytics Intern (Virtual)** | Edunet Foundation (AICTE & VOIS for Tech)
 
-🅿️ Dynamic Parking Pricing Simulation – *IITG*  
+💼 **Machine Learning & Data Science Fellow** | Consulting & Analytics Club, IIT Guwahati
 
-💼 Deloitte Australia Virtual Tech Experience  
+🧭 Dynamic Parking Pricing Simulation – *IITG*  
 
-🧭 Pathfinding Visualizer (BFS, DFS, A\*)  
+🧭 CodeReview Agent - inline PR reviews  
 
-🏅 Academic Excellence – CGPA 9+, 96.8% (XII), 95.6% (X)
+🧭 DocuMind - Multi-Document RAG Q&A Platform  
+
+🏅 Academic Excellence – CGPA 9,2x JEE Advanced Qualified, 96.8% (XII), 95.6% (X)
 
 ---
 

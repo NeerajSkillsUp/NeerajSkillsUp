@@ -21,9 +21,11 @@
 
 🧭 Dynamic Parking Pricing Simulation – *IITG*  
 
-🧭 CodeReview Agent - inline PR reviews  
+🧭 CodeReview Agent - inline PR reviews | [Demo](https://mashup-service.streamlit.app/)
 
-🧭 DocuMind - Multi-Document RAG Q&A Platform  
+🧭 DocuMind - Multi-Document RAG Q&A Platform | [Demo](https://mashup-service.streamlit.app/) 
+
+🧭 Mash-up service | [Demo](https://mashup-service.streamlit.app/)
 
 🏅 Academic Excellence – CGPA 9,2x JEE Advanced Qualified, 96.8% (XII), 95.6% (X)
 

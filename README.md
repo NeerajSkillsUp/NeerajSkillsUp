@@ -15,11 +15,11 @@
 
 ### 🌟 Highlights
 
-💼 **Data Analytics Intern (Virtual)** | Edunet Foundation (AICTE & VOIS for Tech)
+💼 **Data Analytics Intern (Virtual)** | Edunet Foundation (AICTE & VOIS for Tech) | [certificate](https://drive.google.com/file/d/1YnKfm1QEf1mmKLorX7wg8YkZ0B6Fazs1/view?usp=sharing)
 
-💼 **Machine Learning & Data Science Fellow** | Consulting & Analytics Club, IIT Guwahati
+💼 **Machine Learning & Data Science Fellow** | Consulting & Analytics Club, IIT Guwahati | [certificate](https://drive.google.com/file/d/1Fy_V65X1Yv-VPc23Luej1Hd09CK9sU9d/view?usp=sharing)
 
-🧭 Dynamic Parking Pricing Simulation – *IITG*  
+🧭 Mash-up service | [Demo](https://topsis-web-service-mcdm.streamlit.app/)
 
 🧭 Mash-up service | [Demo](https://mashup-service.streamlit.app/)
 

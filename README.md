@@ -9,7 +9,7 @@
 ### ⚙️ Tech Snapshot
 🧠 **Python | C/C++ | R | HTML | CSS | JS | SQL**  
 🚀 **AI/ML | Data Science | Algorithms | Web Dev**  
-🧰 **VS Code | GitHub | Render | Vercel | Kaggle**  
+🧰 **VS Code | Git | GitHub | Render | Vercel | streamlit | Kaggle**  
 
 ---
 

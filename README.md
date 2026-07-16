@@ -19,13 +19,13 @@
 
 💼 **Machine Learning & Data Science Fellow** | Consulting & Analytics Club, IIT Guwahati | [certificate](https://drive.google.com/file/d/1Fy_V65X1Yv-VPc23Luej1Hd09CK9sU9d/view?usp=sharing)
 
-🧭 Guided Project Evaluator | [Demo](https://student-audit-tiet.streamlit.app/)
+🧭 Guided Project Evaluator : Verifies whether students completed Coursera Guided Project | [Demo](https://student-audit-tiet.streamlit.app/)
 
 🧭 TOPSIS Service : Helps in Multi-criteria Decision Making (which car or device to buy?? Given their features and importance!) | [Demo](https://topsis-web-service-mcdm.streamlit.app/)
 
-🧭 Mash-up Service : just name your fav. singer and enjoy the playlist in Mash-up | [Demo](https://mashup-service.streamlit.app/)
+🧭 Mash-up Service : Just name your fav. singer and enjoy the playlist in Mash-up | [Demo](https://mashup-service.streamlit.app/)
 
-🧭 CodeReview Agent - inline PR reviews | [Demo](https://codereview-ai-bot-n26h.onrender.com/webhooks/history)
+🧭 CodeReview Agent - Inline PR reviews | [Demo](https://codereview-ai-bot-n26h.onrender.com/webhooks/history)
 
 🧭 DocuMind - Multi-Document RAG Q&A Platform | [Demo](https://documind-client-kohl.vercel.app/) 
 

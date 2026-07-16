@@ -19,9 +19,9 @@
 
 💼 **Machine Learning & Data Science Fellow** | Consulting & Analytics Club, IIT Guwahati | [certificate](https://drive.google.com/file/d/1Fy_V65X1Yv-VPc23Luej1Hd09CK9sU9d/view?usp=sharing)
 
-🧭 Mash-up service | [Demo](https://topsis-web-service-mcdm.streamlit.app/)
+🧭 TOPSIS service : Helps in Multi-criteria Decision Making (which car or device to buy?? Given their features and importance!) | [Demo](https://topsis-web-service-mcdm.streamlit.app/)
 
-🧭 Mash-up service | [Demo](https://mashup-service.streamlit.app/)
+🧭 Mash-up service : just name your fav. singer and enjoy the playlist in Mash-up | [Demo](https://mashup-service.streamlit.app/)
 
 🧭 CodeReview Agent - inline PR reviews | [Demo](https://codereview-ai-bot-n26h.onrender.com/webhooks/history)
 

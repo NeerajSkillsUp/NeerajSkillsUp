@@ -1,13 +1,9 @@
 # 👋 Hey, I'm Neeraj Bhardwaj  
 
 🎓 **B.E. CSE (2023–27)** | Thapar Institute of Engineering & Technology  
-
 💡 Focus - **Data Structures & Algorithms - 650+ on leetcode**  
-
 📧 **thisis.neerajbhardwaj@gmail.com**  
-
 <a href="https://www.linkedin.com/in/neeraj-bhardwaj-461548285"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="18" width="18" /> LinkedIn</a>
-
 🌐 [Portfolio](https://neerajbhardwaj-portfolio.netlify.app/)
 ---
 

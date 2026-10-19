@@ -25,7 +25,7 @@
 
 🧭 HyperVenue - Ticket-Booking & Food-Ordering System | [Demo](https://hypervenue.vercel.app/)
 
-🧭 Staybnb - airbnb clone | [Demo](https://documind-client-kohl.vercel.app/)
+🧭 Staybnb - airbnb clone | [Demo](https://airbnb-clone-ruddy-sigma.vercel.app/)
 
 🧭 DocuMind - Multi-Document RAG Q&A Platform | [Demo](https://documind-client-kohl.vercel.app/) 
 

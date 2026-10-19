@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Neeraj Bhardwaj  
 
 🎓 **Final-Year CSE @ TIET | AI/ML, Software Engineering & Data Science | Python, C++**  
-💡 Focus - **Data Structures & Algorithms - 650+ on leetcode**  
+💡 Focus - **Data Structures & Algorithms - 750+ on leetcode**  
 📧 **thisis.neerajbhardwaj@gmail.com**  
 🌐 [Portfolio](https://neerajbhardwaj-portfolio.netlify.app/)
 👔 [LinkedIn](https://www.linkedin.com/in/neeraj-bhardwaj-461548285)
@@ -24,6 +24,8 @@
 💼 **Machine Learning & Data Science Fellow** | Consulting & Analytics Club, IIT Guwahati | [certificate](https://drive.google.com/file/d/1Fy_V65X1Yv-VPc23Luej1Hd09CK9sU9d/view?usp=sharing)
 
 🧭 HyperVenue - Ticket-Booking & Food-Ordering System | [Demo](https://hypervenue.vercel.app/)
+
+🧭 Staybnb - airbnb clone | [Demo](https://documind-client-kohl.vercel.app/)
 
 🧭 DocuMind - Multi-Document RAG Q&A Platform | [Demo](https://documind-client-kohl.vercel.app/) 
 

@@ -33,7 +33,7 @@
 
 🧭 Guided Project Evaluator : Verifies whether students completed Coursera Guided Project | [Demo](https://student-audit-tiet.streamlit.app/)
 
-🧭 TOPSIS Service : Helps in Multi-criteria Decision Making (which car or device to buy?? Given their features and importance!) | [Demo](https://topsis-web-service-mcdm.streamlit.app/)
+🧭 TOPSIS Service : Helps in Multi-criteria Decision Making (which car or device to buy? Given the features & importance!) | [Demo](https://topsis-web-service-mcdm.streamlit.app/)
 
 🧭 Mash-up Service : Just name your fav. singer and enjoy the playlist in Mash-up | [Demo](https://mashup-service.streamlit.app/)
 

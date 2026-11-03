@@ -37,7 +37,7 @@
 
 🧭 Mash-up Service : Just name your fav. singer and enjoy the playlist in Mash-up | [Demo](https://mashup-service.streamlit.app/)
 
-🏅 Academic Excellence – CGPA 9,2x JEE Advanced Qualified, 96.8% (XII), 95.6% (X)
+🏅 Academic Excellence – CGPA 9.01, 2x JEE Advanced Qualified, 96.8% (XII), 95.6% (X)
 
 ---
 

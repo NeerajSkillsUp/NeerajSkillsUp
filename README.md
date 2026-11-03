@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Neeraj Bhardwaj  
 
 🎓 **Final-Year CSE @ TIET | Software Engineering, AI/ML & Data Science | Python, C++**  
-💡 Focus - **Data Structures & Algorithms - 780+ on leetcode**  
+💡 Focus - **Data Structures & Algorithms - 780+ @leetcode**  
 📧 **thisis.neerajbhardwaj@gmail.com**  
 🌐 [Portfolio](https://neerajbhardwaj-portfolio.netlify.app/)
 👔 [LinkedIn](https://www.linkedin.com/in/neeraj-bhardwaj-461548285)
